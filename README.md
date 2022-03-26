@@ -3,7 +3,7 @@
 
 Programming language used: ``PYTHON``
  
-## Careful:
+## Be careful:
 * python must be installed on your computer.
 * must have python mysql, selenium and webdriver_manager installed
 
